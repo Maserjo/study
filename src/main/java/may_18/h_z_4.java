@@ -1,3 +1,5 @@
+package may_18;
+
 public class h_z_4 {
     public static void main (String[] agrs){
      int[] num = {1, 2, 3, 4, 5};

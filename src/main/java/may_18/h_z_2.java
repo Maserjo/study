@@ -1,3 +1,5 @@
+package may_18;
+
 public class h_z_2 {
     public static void main (String[] agrs) {
     double[] num = {1.5, 2.0, 3.5};

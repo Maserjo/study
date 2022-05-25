@@ -1,4 +1,4 @@
-package may_25;
+package may_23;
 
 public class CL {
     public static void main (String[] agrs){

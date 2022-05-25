@@ -1,3 +1,5 @@
+package may_18;
+
 public class Study {
 
     public static void main(String[] agrs) {
