@@ -12,3 +12,7 @@ H
 src/main/java/h_z_2.java,c\b\cb14ba113e69c7268b022b94932823f22f10a4f7
 H
 src/main/java/h_z_4.java,7\3\733971b4f487c5d40dce6b5e82f22ed6709ac976
+w
+G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
+L
+src/main/java/may_25/CL.java,0\9\094f3d2922eb43bae4b09998171f545a0fe57249
